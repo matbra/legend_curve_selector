@@ -1,7 +1,3 @@
-% $Revision: 29 $
-% $Author: brandt $
-% $Date: 2011-03-30 20:43:53 +0200 (Mi, 30 Mrz 2011) $
-
 % clear the workspace
 clear, close, clc
 
